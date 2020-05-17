@@ -35,3 +35,11 @@ In der ersten Folge spreche ich mit meinem Freund Micha über seine erste Reise 
 * [Furia De La Calle](http://furia.espora.org/)
 * [Mazunte, Oaxaca](https://www.google.com.mx/search?q=mazunte+oaxaca&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ved=0ahUKEwiXwNLt577NAhUFKCYKHdf-CzAQsAQIGw&amp;biw=1440&amp;bih=738)
 * [Peace Brigades International](http://www.peacebrigades.org/">Peace Brigades International)
+
+## Fotos
+
+![Chispas-Konzert in Mexiko-Stadt im UTA - 1](img/tul01-konzert-in-mexiko-stadt-im-uta-1.jpg)
+Chispas-Konzert in Mexiko-Stadt im UTA (Foto: Micha)
+
+![Chispas-Konzert in Mexiko-Stadt im UTA - 2](img/tul01-konzert-in-mexiko-stadt-im-uta-2.jpg)
+Chispas-Konzert in Mexiko-Stadt im UTA (Foto: Micha)
