@@ -21,9 +21,9 @@ player_theme: default # default | "default-dark" | legacy | minimal | republica
 date_format: ordinal
 
 ### Rsync Deploy config: Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_host: user@host.org
+ssh_host: flowfx@ariel.uberspace.de
 ssh_port: 22
-document_root: /path/to/your/htdocs/
+document_root: /var/www/virtual/flowfx/html/tacosundlimetten.de/
 rsync_delete: true
 
 ### Twiter config, optional
