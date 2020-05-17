@@ -4,3 +4,4 @@ RewriteBase /
 # Redirect old Podlove feed
 RewriteEngine on
 Redirect 301 /feed/mp3/ https://tacosundlimetten.de/episodes.mp3.rss
+Redirect 301 /feeds/mp3/ https://tacosundlimetten.de/episodes.mp3.rss
