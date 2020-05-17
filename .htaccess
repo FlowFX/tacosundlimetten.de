@@ -1,0 +1,3 @@
+# Redirect old Podlove feed
+RewriteEngine on
+Redirect 301 /feed/mp3/ https://tacosundlimetten.de/episodes.mp3.rss
