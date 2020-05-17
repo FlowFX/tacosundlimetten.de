@@ -38,8 +38,8 @@ In der ersten Folge spreche ich mit meinem Freund Micha über seine erste Reise 
 
 ## Fotos
 
-![Chispas-Konzert in Mexiko-Stadt im UTA - 1](img/tul01-konzert-in-mexiko-stadt-im-uta-1.jpg)
+![Chispas-Konzert in Mexiko-Stadt im UTA - 1](/assets/images/tul01-konzert-in-mexiko-stadt-im-uta-1.jpg)
 Chispas-Konzert in Mexiko-Stadt im UTA (Foto: Micha)
 
-![Chispas-Konzert in Mexiko-Stadt im UTA - 2](img/tul01-konzert-in-mexiko-stadt-im-uta-2.jpg)
+![Chispas-Konzert in Mexiko-Stadt im UTA - 2](/assets/images/tul01-konzert-in-mexiko-stadt-im-uta-2.jpg)
 Chispas-Konzert in Mexiko-Stadt im UTA (Foto: Micha)
